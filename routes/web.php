@@ -76,6 +76,10 @@ Route::get('profile', function () {
     return view('User.profile');
 });
 
+Route::get('productdetail', function () {
+    return view('User.product_detail');
+});
+
 
 Auth::routes();
 

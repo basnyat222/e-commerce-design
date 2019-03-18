@@ -3,8 +3,8 @@
 <div class="container">
 <div class="row">
     <div class="owl-carousel owl-theme">
-        <div class="item"><img alt="banner" class="img-fluid"   src="categories-banner.jpg"></div>
-        <div class="item"><h4>2</h4></div>
+        <div class="item"><img alt="banner" class="img-fluid" src="{{asset('img/banner/categories-banner.jpg')}}"></div>
+        <div class="item"><img alt="banner" class="img-fluid" src="{{asset('img/banner/summer-banner.jpg')}}"></div>
         <div class="item"><h4>3</h4></div>
         <div class="item"><h4>4</h4></div>
         <div class="item"><h4>5</h4></div>
@@ -23,16 +23,6 @@
 <body>
 
 
-<!--================Categories Banner Area =================-->
-<section class="categories_banner_area">
-    <div class="container">
-        <div class="c_banner_inner">
-
-            </ul>
-        </div>
-    </div>
-</section>
-<!--================End Categories Banner Area =================-->
 
 <!--================Categories Product Area =================-->
 <section class="no_sidebar_2column_area">

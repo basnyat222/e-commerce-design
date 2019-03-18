@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="container">
+    <!--<div class="container">
         <div class="row">
             <div class="owl-carousel owl-theme">
                 <div class="item"><img src="image1.jpg" class="img-fluid"   ></div>
@@ -19,7 +19,182 @@
                 <div class="item"><h4>12</h4></div>
             </div>
         </div>
-    </div>
+    </div>-->
+
+<section class="home_carousel_area">
+    <div class="home_carousel_slider owl-carousel owl-loaded owl-drag disabled"><div class="owl-prev"><i class="arrow_carrot-left" aria-hidden="true"></i></div>
+
+
+
+
+
+        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2399px, 0px, 0px); transition: all 1.5s ease 0s; width: 3999px;"><div class="owl-item cloned" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-1.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-2.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-3.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-4.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-5.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-1.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-2.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-3.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-4.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item active" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-5.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned active" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-1.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned active" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-2.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned active" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-3.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned active" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-4.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div><div class="owl-item cloned" style="width: 266.6px;"><div class="item">
+                        <div class="h_carousel_item">
+                            <img src="{{asset('img/home-carousel/home-c-5.jpg')}}" alt="">
+                            <div class="carousel_hover">
+                                <h3>mens bag</h3>
+                                <h4>We feature the best professional bags </h4>
+                                <h5>Including:</h5>
+                                <p>Adidas, Century, Everlast, Fairtex, Fighting Sports, WaveMaster, Twins, Rival</p>
+                                <a class="discover_btn" href="#">discover now</a>
+                            </div>
+                        </div>
+                    </div></div></div></div><div class="owl-next"><i class="arrow_carrot-right" aria-hidden="true"></i></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+</section>
 <!--================End Categories Banner Area =================-->
 
 <!--================Categories Product Area =================-->
